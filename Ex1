@@ -1,0 +1,16 @@
+<!doctype htmal>
+<!--script que executa sozinho,sem a intervenção
+Do usuario-->
+<HTML Lang="pt-br">
+<Head>
+<Meta charset="utf-8">
+<Meta nome="viewport"contente="width=device-
+Width,inital-scale=1.0
+</Head>
+<Body>
+<H1>primeiro javascript</H1>
+<Script>
+Window .alerta('ola,mundo!')
+</Script>
+</Body>
+</HTML>
